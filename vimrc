@@ -46,3 +46,14 @@ nmap <F7> :NERDTreeToggle<CR>
 nmap <F4> :GoDef<CR>
 map <C-n> :NERDTreeToggle<CR>
 
+" Enable mouse support
+set mouse=a
+
+" Use the powerline binding
+set rtp+=$HOME/.local/lib/python2.7/site-packages/powerline/bindings/vim/
+
+" Always show statusline
+set laststatus=2
+
+" Use 256 colours (Use this setting only if your terminal supports 256 colours)
+set t_Co=256
