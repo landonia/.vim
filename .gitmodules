@@ -40,3 +40,6 @@
 [submodule "bundle/youcompleteme"]
 	path = bundle/youcompleteme
 	url = git@github.com:valloric/youcompleteme
+[submodule "bundle/vim-fugitive"]
+	path = bundle/vim-fugitive
+	url = git@github.com:tpope/vim-fugitive
