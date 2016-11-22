@@ -43,3 +43,6 @@
 [submodule "bundle/vim-fugitive"]
 	path = bundle/vim-fugitive
 	url = git@github.com:tpope/vim-fugitive
+[submodule "bundle/elm.vim"]
+	path = bundle/elm.vim
+	url = git@github.com:lambdatoast/elm.vim
