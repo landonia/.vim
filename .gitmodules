@@ -46,3 +46,6 @@
 [submodule "bundle/elm.vim"]
 	path = bundle/elm.vim
 	url = git@github.com:lambdatoast/elm.vim
+[submodule "bundle/rust.vim"]
+	path = bundle/rust.vim
+	url = https://github.com/rust-lang/rust.vim.git
