@@ -39,13 +39,13 @@
 	url = https://github.com/gmarik/Vundle.vim
 [submodule "bundle/youcompleteme"]
 	path = bundle/youcompleteme
-	url = git@github.com:valloric/youcompleteme
+	url = https://github.com/valloric/youcompleteme
 [submodule "bundle/vim-fugitive"]
 	path = bundle/vim-fugitive
-	url = git@github.com:tpope/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
 [submodule "bundle/elm.vim"]
 	path = bundle/elm.vim
-	url = git@github.com:lambdatoast/elm.vim
+	url = https://github.com/lambdatoast/elm.vim
 [submodule "bundle/rust.vim"]
 	path = bundle/rust.vim
 	url = https://github.com/rust-lang/rust.vim.git
